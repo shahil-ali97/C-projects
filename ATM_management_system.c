@@ -78,8 +78,7 @@ int main()
                 printf("\nThank you for using ATM!\n");
                 return 0;
 
-            default:
-                printf("\nInvalid choice! Please try again.\n");
+            
         }
     }
 
