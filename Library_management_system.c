@@ -134,8 +134,7 @@ int main() {
                 printf("\nThank you!\n");
                 return 0;
 
-            default:
-                printf("\nInvalid choice!\n");
+            
         }
     }
 
