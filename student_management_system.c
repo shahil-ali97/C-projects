@@ -174,8 +174,7 @@ int main() {
                 printf("\nThank you for using Student Management System!\n");
                 return 0;
 
-            default:
-                printf("\nInvalid choice! Please try again.\n");
+           
         }
     }
 
